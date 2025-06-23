@@ -72,9 +72,9 @@ Rscript -e "shiny::runApp('cassava-ghg-calculator')"
 ---
 
 ## 🖼️ Screenshot
+![Demo Image](https://user-images.githubusercontent.com/112208963/318508971-b20c49a1-60c7-4cf9-97b4-716df4bb0c7d)
 
 ![App Screenshot]([Action.png])
-https://github.com/suvijak1yangdiew/Agriculture/issues/1#issue-3169120432
 ---
 
 ## 📁 File Structure
