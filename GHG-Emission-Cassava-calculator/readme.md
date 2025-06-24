@@ -1,6 +1,6 @@
 # Cassava GHG Emission Reduction Calculator (VM0042-Compliant)
 
-This Shiny web application calculates greenhouse gas (GHG) emission reductions in cassava farming projects based on the **VM0042 Methodology**. It compares a **Baseline Scenario** with a **Project Scenario** using emission factors and assumptions aligned with IPCC and VM0042.
+This Shiny web application calculates greenhouse gas (GHG) emission reductions in cassava farming projects based on the **VM0042 Methodology**. It compares a **Baseline Scenario** with a **Project Scenario** using emission factors and assumptions aligned with IPCC and VM0042. [https://trysaha.shinyapps.io/ghgh/]
 
 ![Image](https://github.com/user-attachments/assets/78569fa8-3ac7-4480-a5f3-d881899f5629)
 
