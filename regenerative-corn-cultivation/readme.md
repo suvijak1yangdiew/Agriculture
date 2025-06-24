@@ -1,7 +1,7 @@
 
 # Regenerative Agriculture Farm Map (Shiny + Leaflet)
 
-This Shiny application provides an **interactive geospatial map** of farm locations using data from a user-uploaded CSV file. It distinguishes between **Regenerative** and **Conventional** practices and visualizes soil pH values using scalable circle markers on a Leaflet map.
+This Shiny application provides an **interactive geospatial map** of farm locations using data from a user-uploaded CSV file. It distinguishes between **Regenerative** and **Conventional** practices and visualizes soil pH values using scalable circle markers on a Leaflet map. [https://trysaha.shinyapps.io/CornDashboard1/]
 
 ---
 
