@@ -100,7 +100,7 @@ cassava-ghg-calculator/
 
 ## 🛡️ License
 
-MIT License © [Your Name or Organization]
+MIT License © Warm Suvijak
 
 ---
 
